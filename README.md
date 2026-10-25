@@ -48,12 +48,8 @@
 
   <li>Wi‑Fi（因特尔网卡不太兼容，在开机后需要用 OCLP-MOD 给驱动打补丁，还需要先伪装后安装，Wi‑Fi 6 正常使用）</li>
   <li>
-    <img
-      src="https://github.com/user-attachments/assets/31c0d28b-8219-499b-a4e3-cf9e825cb575"
-      alt="截屏2026-10-25 19 34 13"
-      width="296"
-      height="450"
-    >
+    <img width="335" height="214" alt="截屏2026-10-25 19 56 26" src="https://github.com/user-attachments/assets/081988e5-1529-4a84-9f84-dee6c0175d17" />
+
   </li>
 
   <li>隔空传送（单向只能发不能收，原因同英特尔）</li>
