@@ -1,0 +1,14 @@
+# macOS 生成的元数据
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.AppleDouble
+.LSOverride
+
+# IDE 配置
+.idea/
+
+# IDE 配置
+.idea/
